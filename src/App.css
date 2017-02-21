@@ -1,0 +1,72 @@
+.main-container {
+    background: #1f8dd6;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.main {
+    width: 80%;
+    height: 50%;
+    margin: auto;
+    top: 100px; left: 0; bottom: 0; right: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.main-head {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    border: 3px solid white;
+    padding: 1em 1.6em;
+    font-weight: 100;
+    border-radius: 5px;
+    line-height: 1em;
+    margin-top: 70px;
+}
+
+.main-subhead {
+    color: black;
+    letter-spacing: 0.05em;
+    opacity: 0.8;
+}
+
+
+.concept-list-hoz li {
+  display: inline-block;
+  margin: 20px;
+  color: black;
+}
+
+.data-table {
+  margin: 30px;
+  overflow: scroll;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+
+.ribbon {
+    background: #2d3e50;
+    color: #aaa;
+}
+
+.ribbon-content {
+    color: white;
+}
+
+.main-button {
+    margin: 75px auto 30px auto;
+}
+
+.main-data-container {
+    margin: 200px auto 100px auto;
+}
+
+.main-list {
+    margin: 45px auto 40px auto;
+}
+.main-arrow{
+      text-align: center;
+      margin: 50px auto 0px auto;
+     }
